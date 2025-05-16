@@ -12,4 +12,8 @@ The URL being in both the publisher and subscriber programs means that they are 
 - Sending and processing event.
 ![sending_processing.png](images/sending_processing.png)
 
-- 
+- Monitoring chart based on publisher.
+![monitoring_chart.png](images/monitoring_chart.png)
+  The spike in the message rate chart happened when the publisher was run. It shows that messages were successfully sent to the queue and immediately consumed. This confirms that the publisher and consumer are working correctly with RabbitMQ.
+
+
