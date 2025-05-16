@@ -8,3 +8,8 @@ The URL being in both the publisher and subscriber programs means that they are 
 
 - Running RabbitMQ as message broker
 ![rabbitMQ_overview.png](images/rabbitMQ_overview.png)
+
+- Sending and processing event.
+![sending_processing.png](images/sending_processing.png)
+
+- 
